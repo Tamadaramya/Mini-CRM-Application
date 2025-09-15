@@ -14,7 +14,6 @@ A comprehensive Customer Relationship Management (CRM) system built with the MER
 - **✅ Working Search & Filtering**: Live search for customers, status filtering for leads
 - **✅ Pagination**: Proper pagination for large datasets
 - **✅ Edit Functionality**: All edit buttons work correctly with pre-filled forms
-- **✅ Toast Notifications**: User feedback for all actions (success/error/loading)
 - **✅ Responsive Design**: Works perfectly on desktop, tablet, and mobile
 
 ### 🎯 **Core Functionality**
@@ -348,7 +347,10 @@ For questions or issues:
 5. Verify API calls are reaching the backend (Network tab)
 
 ---
-
+features that will be added in future:
+1.notification
+2.export
+3.email sending
 
 
 Perfect for development portfolios, learning purposes, and as a foundation for commercial CRM systems.
